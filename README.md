@@ -20,7 +20,7 @@
 - User can make payment and subscribe diffrent services.
 
 # Contributors :
-- https://github.com/mukundjha1310
-- https://github.com/RavishekSingh
+- https://github.com/kumarnishantgunajn5803
+- https://github.com/anwarjitme
 - https://github.com/anwarjitme
 - https://github.com/deep1049
